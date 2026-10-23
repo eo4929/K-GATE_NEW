@@ -21,19 +21,6 @@ K-GATE addresses this by modeling jailbreak as a structured trajectory optimizat
 - Uses **MCTS for trajectory search**
 - Proposes **sequential context synthesis (aggregation)**
 
----
-
-## 📂 Repository Structure
-
-```
-├── data/
-│   ├── advbench_behaviors.csv
-│   ├── harmbench_behaviors_text_all.csv
-├── src/
-├── assets/
-├── prompts/
-├── README.md
-```
 
 ---
 
